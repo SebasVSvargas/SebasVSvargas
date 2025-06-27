@@ -26,7 +26,7 @@ Ingeniero civil de formación y desarrollador de aplicaciones de escritorio para
 </div>
 
 ### Especialización Técnica:
-- **Lenguajes:** C#, VB.NET, Python (básico)
+- **Lenguajes:** C# (avanzado), VB.NET (medio), Python (básico)
 - **UI:** WinForms, WPF (XAML)
 - **APIs:** Autodesk AutoCAD .NET API, Autodesk API Common, CSI Etabs API
 - **Web:** HTML5, CSS3, JavaScript (en aprendizaje)
