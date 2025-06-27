@@ -1,13 +1,13 @@
-# Hola, soy Sebastian Vargas Suarez 👋
+# Hi, I'm Sebastian Vargas Suarez 👋
 
 ---
 
-## 📖 Sobre mí
-Ingeniero civil de formación y desarrollador de aplicaciones de escritorio para Windows con más de 4 años de experiencia. Me especializo en back-end .NET, construyendo soluciones robustas con WinForms y WPF.
+## 📖 About Me
+Civil engineer by training and desktop application developer for Windows with over 4 years of experience. I specialize in .NET back-end, building robust solutions with WinForms and WPF.
 
 ---
 
-## 🛠 Tecnologías y Herramientas
+## 🛠 Technologies and Tools
 
 <div align="center">
 
@@ -25,35 +25,35 @@ Ingeniero civil de formación y desarrollador de aplicaciones de escritorio para
 
 </div>
 
-### Especialización Técnica:
-- **Lenguajes:** C# (avanzado), VB.NET (medio), Python (básico)
+### Technical Specialization:
+- **Languages:** C# (advanced), VB.NET (intermediate), Python (basic)
 - **UI:** WinForms, WPF (XAML)
 - **APIs:** Autodesk AutoCAD .NET API, Autodesk API Common, CSI Etabs API
-- **Web:** HTML5, CSS3, JavaScript (en aprendizaje)
+- **Web:** HTML5, CSS3, JavaScript (learning)
 - **Cloud:** AWS (IAM, EC2, S3, RDS, Auto Scaling) – Practitioner
-- **Control de versiones:** Git & GitHub
-- **Bases de datos:** SQL Server, SQLite
+- **Version Control:** Git & GitHub
+- **Databases:** SQL Server, SQLite
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Featured Projects
 
 - **🔧 AutoCAD Plugin**  
-  Integración avanzada con Autodesk .NET API para optimizar flujos de trabajo de diseño técnico.
+  Advanced integration with Autodesk .NET API to optimize technical design workflows.
 
-- **⚡ Automatización ETABS**  
-  Herramienta robusta en .NET para automatizar análisis estructural con la API de CSI Etabs.
+- **⚡ ETABS Automation**  
+  Robust .NET tool to automate structural analysis with the CSI Etabs API.
 
-- **📊 Aplicaciones de Escritorio para Automatización**  
-  **Softwares especializados:**
-  - Diseño de muros de concreto y mampostería
-  - Diseño de vigas y columnas
-  - Despieces y planos automatizados en AutoCAD
-  - Programas para análisis de riostras
+- **📊 Desktop Applications for Automation**  
+  **Specialized software:**
+  - Concrete and masonry wall design
+  - Beam and column design
+  - Automated detailing and drawings in AutoCAD
+  - Programs for brace analysis
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 
 <div align="center">
 
@@ -65,7 +65,7 @@ Ingeniero civil de formación y desarrollador de aplicaciones de escritorio para
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub Statistics
 
 <div align="center">
   
@@ -78,7 +78,7 @@ Ingeniero civil de formación y desarrollador de aplicaciones de escritorio para
 </div>
 
 ---
-## 📈 Actividad y Contribuciones
+## 📈 Activity and Contributions
 
 <div align="center">
 
