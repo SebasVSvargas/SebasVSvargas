@@ -3,7 +3,7 @@
 ---
 
 ## 📖 About Me
-Civil engineer by training and desktop application developer for Windows with over 4 years of experience. I specialize in .NET back-end, building robust solutions with WinForms and WPF.
+Civil engineer and application developer with over 4 years of experience. I specialize in .NET back-end, building robust solutions with WinForms and WPF.
 
 ---
 
@@ -26,8 +26,8 @@ Civil engineer by training and desktop application developer for Windows with ov
 </div>
 
 ### Technical Specialization:
-- **Languages:** C# (advanced), VB.NET (intermediate), Python (basic)
-- **UI:** WinForms, WPF (XAML)
+- **Languages:** C# (advanced), VB.NET, Python, HTML, CSS, JS, TypeScript
+- **UI:** WinForms, WPF (XAML), WinUI3
 - **APIs:** Autodesk AutoCAD .NET API, Autodesk API Common, CSI Etabs API
 - **Web:** HTML5, CSS3, JavaScript (learning)
 - **Cloud:** AWS (IAM, EC2, S3, RDS, Auto Scaling) – Practitioner
@@ -59,7 +59,7 @@ Civil engineer by training and desktop application developer for Windows with ov
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:svs.sebas@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-vargas-suarez)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tusitio.com)
+<!--[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tusitio.com)-->
 
 </div>
 
