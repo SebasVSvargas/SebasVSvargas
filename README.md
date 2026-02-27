@@ -69,10 +69,6 @@ I specialize in .NET back-end, building robust solutions with WinForms and WPF.
 
 <div align="center">
   
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=SebasVSvargas&show_icons=true&theme=radical&include_all_commits=true&hide_border=true)](https://github.com/SebasVSvargas)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebasVSvargas&layout=compact&theme=radical&langs_count=8&hide_border=true)](https://github.com/SebasVSvargas)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SebasVSvargas&theme=radical)](https://github.com/SebasVSvargas)
 
 </div>
