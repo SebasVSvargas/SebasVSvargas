@@ -3,8 +3,8 @@
 ---
 
 ## 📖 About Me
-Civil engineer and application developer with over 4 years of experience. I specialize in .NET back-end, building robust solutions with WinForms and WPF.
-
+Full Stack Developer and Civil Engineer with over 4 years of experience building robust applications and automating complex technical workflows. Proven experience in backend architecture with .NET and Python (FastAPI), complemented by modern frontend frameworks such as React.js and JavaScript/TypeScript. Strong analytical skills applying Agile methodologies, design patterns, and cloud tools (AWS) for deploying containerized applications. 
+I specialize in .NET back-end, building robust solutions with WinForms and WPF.
 ---
 
 ## 🛠 Technologies and Tools
