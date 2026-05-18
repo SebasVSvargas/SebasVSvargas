@@ -32,7 +32,7 @@ I specialize in .NET back-end, building robust solutions with WinForms and WPF.
 - **Web:** HTML5, CSS3, JavaScript (learning)
 - **Cloud:** AWS (IAM, EC2, S3, RDS, Auto Scaling) – Practitioner
 - **Version Control:** Git & GitHub
-- **Databases:** SQL Server, SQLite
+- **Databases:** MySQL, SQLite, PostgreSQL
 
 ---
 
